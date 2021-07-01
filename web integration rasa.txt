@@ -1,0 +1,2 @@
+rasa run -m models --enable-api --cors "*" for integration on html code
+and for whatsapp and facebook integration use ngrok after running " rasa run"

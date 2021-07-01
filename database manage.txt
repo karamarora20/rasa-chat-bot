@@ -1,0 +1,5 @@
+for database integration refer to database.py
+there change the user and passwd as corresponding to the particular sql server
+also for the first time run with the [sql= sql= "CREATE TABLE form_entries(First__name VARCHAR(255), last_name VARCHAR(255), email VARCHAR(255), mob_number VARCHAR(255));"
+after that comment this line again and use the other line.
+only assign the value of sql at a time once while coding.
